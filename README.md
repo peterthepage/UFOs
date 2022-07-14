@@ -8,6 +8,6 @@ Being able to get more specific in someone's search criteria will help folks fin
 
 ## Summary
 While the filtering has more functionality there are a couple drawbacks. Firstly, to filter again on the webpage one has to reload the page. This is incredibly frustrating and could be an issue in my current code and not just a drawback of the function. Secondly, more data is needed to make sure all the filters work.
-My first goal would be to create a function that would reset the filters so one does not have to reload the page to filter again.
-Secondly, I'd like to get more data to work with the filters more to confirm they work correctly.
-My last goal would be to redeploy the filter table button. Giving people multiple options when initializing the filters is a better way to get people more comfortable with the site. This could be a personal preference but seeing as we had it in our original page it shouldn't take too much work.
+* My first goal would be to create a function that would reset the filters so one does not have to reload the page to filter again.
+* Secondly, I'd like to get more data to work with the filters more to confirm they work correctly.
+* My last goal would be to redeploy the filter table button. Giving people multiple options when initializing the filters is a better way to get people more comfortable with the site. This could be a personal preference but seeing as we had it in our original page it shouldn't take too much work.
